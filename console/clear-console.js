@@ -5,4 +5,5 @@ module.exports = {
 }
 
 // or console.log('\x1Bc');
+// or console.clear();
 // or simply press Ctrl + L.
