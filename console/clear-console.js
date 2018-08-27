@@ -1,5 +1,7 @@
-console.reset = function () {
-  return process.stdout.write('\033c');
+module.exports = {
+  reset: function() {
+    return process.stdout.write('\033c');
+  }
 }
 
 // or console.log('\x1Bc');
