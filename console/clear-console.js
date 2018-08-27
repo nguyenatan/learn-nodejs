@@ -3,4 +3,4 @@ console.reset = function () {
 }
 
 // or console.log('\x1Bc');
-// or press simply Ctrl + L.
+// or simply press Ctrl + L.
